@@ -78,7 +78,7 @@
     "postcss-cli": "^11.0.1",
     "postcss-loader": "~8.2.0",
     "react": "catalog:",
-    "storybook": "^10.2.6",
+    "storybook": "^10.2.10",
     "style-loader": "~4.0.0",
     "stylelint": "^17.1.1",
     "stylelint-config-standard": "^40.0.0",
